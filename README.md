@@ -1,7 +1,7 @@
 # AIML-2025-2303A51034
 # P.Chandra Vardhan Reddy
 # Artifical Intelligence and Machine Learning Lab Instructions Sheets
-1. [lab 01](): Introduction to Python Libraries-Numpy
+1. [lab 01](https://github.com/2303A51034/AIML-2025/blob/main/AIML_A1.pdf): Introduction to Python Libraries-Numpy
 2. [lab 02](): Introduction to Python Libraries-Numpy
 3. [lab 03](): Introduction to Python Libraries-Numpy
 4. [lab 04](): Introduction to Python Libraries-Numpy
