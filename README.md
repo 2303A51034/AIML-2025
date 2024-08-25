@@ -17,7 +17,7 @@
 1. [lab 01](https://github.com/2303A51034/AIML-2025/blob/main/Lab01-AIML.ipynb): Introduction to Python Libraries-Numpy
 2. [lab 02](https://github.com/2303A51034/AIML-2025/blob/main/Lab02_AIML.ipynb): Implement AI Search using Breadth First, Depth First and A* Search Algorithm using Python
 3. [lab 03](): Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
-4. [lab 04](): Implement Linear Regression using Boston Housing Data
+4. [lab 04](https://github.com/2303A51034/AIML-2025/blob/main/Lab04_AIML.ipynb): Implement Linear Regression using Boston Housing Data
 5. [lab 05](): Introduction to Python Libraries-Numpy
 6. [lab 06](): Introduction to Python Libraries-Numpy
 7. [lab 07](): Introduction to Python Libraries-Numpy
