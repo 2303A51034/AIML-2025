@@ -19,7 +19,7 @@
 3. [lab 03](https://github.com/2303A51034/AIML-2025/blob/main/Lab03-AIML.ipynb): Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
 4. [lab 04](https://github.com/2303A51034/AIML-2025/blob/main/Lab04_AIML.ipynb): Implement Linear Regression using Boston Housing Data
 5. [lab 05](https://github.com/2303A51034/AIML-2025/blob/main/Lab05_AIML.ipynb): Implement Logistic Regression using Titanic Ship Data
-6. [lab 06](): Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset
+6. [lab 06](https://github.com/2303A51034/AIML-2025/blob/main/Lab06_AIML.ipynb): Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset
 7. [lab 07](): Implement Support Vector Machine using Breast Cancer Data
 8. [lab 08](): Implement Decision Tree Classifier using Lending Club Data
 9. [lab 09](): Implement Random Forest Ensemble Classifier using Lending Club Data
